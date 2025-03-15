@@ -26,7 +26,7 @@ Bu uygulama, sera çalışanları ve işverenler için geliştirilmiş bir hasat
 
 2. Projeyi klonlayın:
 ```bash
-git clone https://github.com/[KULLANICI_ADI]/sera-takip.git
+git clone https://github.com/nedimebayrakdar/sera-takip.git
 cd sera-takip
 ```
 
